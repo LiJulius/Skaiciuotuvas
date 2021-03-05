@@ -1,4 +1,4 @@
-# Uzd_skaiciuotuvas
+# Skaičiuotuvas
 Skaičiuotuvas parašytas C++ object orientated būdu, realizuotas shunting-yard algoritmas
 
 # Žinomi apribojimai
